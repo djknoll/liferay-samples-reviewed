@@ -2,5 +2,5 @@
 <!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN" "http://www.springframework.org/dtd/spring-beans.dtd">
 
 <beans>
-	<bean id="com.liferay.sample.ScriptUtil" class="com.liferay.sample.ScriptUtilImpl" />
+	<bean id="com.liferay.samples.ScriptUtil" class="com.liferay.samples.ScriptUtilImpl" />
 </beans>
